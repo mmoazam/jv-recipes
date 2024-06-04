@@ -3,7 +3,7 @@ import org.example.model.*;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-import java.sql.Driver;
+
 
 import static java.lang.Boolean.TRUE;
 import static org.hibernate.cfg.AvailableSettings.*;
